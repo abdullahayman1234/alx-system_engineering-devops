@@ -1,2 +1,2 @@
 #!/bin/bash
-BETTY="Holberton"
+head -n 3 iacta | tail -n +3
